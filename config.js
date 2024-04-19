@@ -20,7 +20,7 @@
 *                                                                 
   * @project_name : Gifted-Md
    * @author : Gifted Tech Info
-   * @youtube : https://www.youtube.com/@giftedtechnexus
+   * @youtube : 
    * @description : Gifted-Md ,A Multi-functional whatsapp user bot.
    * @version 2.5.0
 *
