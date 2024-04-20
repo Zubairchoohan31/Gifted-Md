@@ -1,7 +1,7 @@
 {
   "name": "gifted-md@2.5.0",
   "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better\n\t if Any Problem Whatsapp Me on: +254728782591",
-  "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
+  "logo": "",
   "keywords": ["whatsappbot", "giftedlMd", "gifted Md bot", "Gifted-Md", "GiftedMdWhatsaooBot", "GiftedWaBot","GiftedMD","Gifted Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/qr/",
@@ -32,7 +32,7 @@
     "USER_IMAGES": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
+      "value": ""
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
